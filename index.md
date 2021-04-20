@@ -6,10 +6,10 @@ title: Buse Mut's CV
 # Buse Mut
 Software Developer
 
-| __E-Mail__   | [buse.genc@ceng.ktu.edu.tr](mailto:buse.genc@ceng.ktu.edu.tr)                                    | 
+| __E-Mail__   | [buse.genc@ceng.ktu.edu.tr](mailto:buse.genc@ceng.ktu.edu.tr)| 
 | __Website__  |                                             |
-| __LinkedIn__ | [linkedin.com/in/buse-genc/](https://www.linkedin.com/in/buse-genc/)   |
-| __Twitter__  | [veniviciteapot](https://twitter.com/veniviciteapot)                     |
+| __LinkedIn__ | [linkedin.com/in/buse-genc/](https://www.linkedin.com/in/buse-genc/)|
+| __Twitter__  | [veniviciteapot](https://twitter.com/veniviciteapot)|
 
 ## Currently
 
